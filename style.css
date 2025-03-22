@@ -1,0 +1,23 @@
+body{
+
+color:white:padding:20px;
+text-align:center;
+
+}
+.heading
+{
+	background-color:red;
+}
+.menu{
+	font-size:10px;
+	background-color:#00264d;
+	color:white;
+	padding:2px;
+	
+}
+.heading{
+	background-color:#00264d;
+	color:white;
+	font-size:25px;
+	padding:10px;
+}
